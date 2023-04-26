@@ -1,6 +1,3 @@
-# URL Pages
-
-[shaoeny.github.io/urlpages](http://shaoeny.github.io/urlpages)
 
 ## About
 
@@ -17,9 +14,6 @@
 - No cost
 - No commitment
 - A few hundred total lines of clear, well-documented HTML, CSS, and JavaScript
-
-Read the Hacker News Discussion
-[here](https://news.ycombinator.com/item?id=20317840)
 
 ## Encrypt
 
@@ -100,42 +94,14 @@ case, it is actually very handy and robust!
 
 ## Examples
 
-The following examples were made and "published" using the provided [code
-editor](http://shaoeny.github.io/urlpages/editor).
-
-- My personal website
-  - Code in the code editor [here](https://tinyurl.com/y64dmsqm)
-  - "Published" version [here](https://tinyurl.com/y5w9ybk2)
-- Bookmarklet setup page
-  - Code in the code editor [here](https://tinyurl.com/y5r8y4v4)
-  - "Published" version [here](https://tinyurl.com/y3lw36uh)
-- A page with embedded images (no external image host)
-  - Code in the code editor
-    [here](http://shaoeny.github.io/urlpages/examples/embed-code.html)
-  - "Published" page
-    [here](http://shaoeny.github.io/urlpages/examples/embed-page.html)
-
 The following examples were cloned from existing pages using the bookmarklet.
 
-- My dad's food blog
-  [here](http://shaoeny.github.io/urlpages/examples/food-blog.html)
-- The entire [editor](http://shaoeny.github.io/urlpages/editor) encoded in the
-  URL [here](https://tinyurl.com/y6nx5347)
-- This GitHub project page
-  [here](http://shaoeny.github.io/urlpages/examples/project-page.html)
-- A cloned New York Times Article
-  [here](http://shaoeny.github.io/urlpages/examples/nyt.html)
 
 ## Bookmarklet
 
 Currently, the bookmarklet is very much in-development (read: mostly doesn't
 work). Feel free to try it anyway by visiting the link below and following the
 instructions.
-
-- [Bookmarklet instruction page](https://tinyurl.com/y3lw36uh)
-
-Code for the bookmarklet can be found in
-[`bookmarklet.js`](https://github.com/jstrieb/urlpages/blob/master/bookmarklet.js).
 
 The bookmarklet enables some of the most interesting and promising
 opportunities for URL Pages. Namely: cloning pages for archival purposes,
@@ -147,25 +113,11 @@ storing entire pages in bookmarks, etc.
 Since its original creation, it has been forked many times. Please open an
 issue if you would like me to link back to a fork or mirror.
 
-- One particularly improved version is JSPen
-  - [JSPen](http://jspen.co)
-  - [Post](https://medium.com/swlh/creating-jspen-a-codepen-like-editor-that-stores-pages-in-urls-b163934f06c8)
-    about the creation of JSPen
 
-Similar in some ways (though unrelated) to the following projects
-
-- [itty.bitty.site](https://github.com/alcor/itty-bitty)
-- [TinyEditor](https://github.com/umpox/TinyEditor)
-
-## Project Status
 
 This project is actively maintained. If there are no recent commits, it means
 that everything has been running smoothly! URL Pages is designed to be 100%
 backwards-compatible, so your links will never break.
-
-Even if something were to happen to me, and I could not continue to work on
-the project, URL Pages will continue to work as long as my GitHub account is
-open and the [shaoeny.github.io](https://shaoeny.github.io) domain is online.
 
 ## To-do
 
